@@ -2,7 +2,10 @@ package com.archelo;
 
 import java.util.ArrayList;
 
-
+/*
+* Given two strings, write a method to decide if one is a permutation of the
+* other.
+* */
 public class StringPermutationOfOther {
     public static void main(String[] args) {
         String test1a = "abc";
