@@ -1,4 +1,4 @@
-package com.archelo;
+package com.archelo.string;
 
 import java.util.ArrayList;
 
