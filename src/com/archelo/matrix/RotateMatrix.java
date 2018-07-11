@@ -1,6 +1,5 @@
-package com.archelo.string;
+package com.archelo.matrix;
 
-import javax.sound.midi.Soundbank;
 import java.awt.*;
 
 /*
